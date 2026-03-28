@@ -1,5 +1,5 @@
 
-# Feenstra (2016)
+# Feenstra, R. C. (2015). *Advanced International Trade: Theory and Evidence*. Princeton University Press.
 
 * 第 1 章「基礎的な二部門モデル」 [スライド](Feenstra01/Feenstra01Slide.pdf)
 * 第 2 章「ヘクシャー・オーリン・モデル」 [スライド](Feenstra02/Feenstra02Slide.pdf)
